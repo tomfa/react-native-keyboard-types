@@ -1,0 +1,12 @@
+{
+  "name": "InputFocus",
+  "displayName": "InputFocus",
+  "expo": {
+    "name": "InputFocus",
+    "slug": "InputFocus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
