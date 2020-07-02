@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-native-input-focus/precache-manifest.e9e8edb8dea0a852a2c7eb3b15a08646.js"
+  "/react-native-keyboard-types/precache-manifest.c7b13de5f420831c374c1463af41f7f8.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-native-input-focus/index.html", {
+workbox.routing.registerNavigationRoute("/react-native-keyboard-types/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

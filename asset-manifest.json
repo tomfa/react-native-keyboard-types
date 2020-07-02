@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.js": "/react-native-input-focus/static/js/app.ca8a1a43.chunk.js",
-    "app.js.map": "/react-native-input-focus/static/js/app.ca8a1a43.chunk.js.map",
-    "runtime~app.js": "/react-native-input-focus/static/js/runtime~app.1fde9f8c.js",
-    "runtime~app.js.map": "/react-native-input-focus/static/js/runtime~app.1fde9f8c.js.map",
-    "static/js/2.f1902678.chunk.js": "/react-native-input-focus/static/js/2.f1902678.chunk.js",
-    "static/js/2.f1902678.chunk.js.map": "/react-native-input-focus/static/js/2.f1902678.chunk.js.map",
-    "index.html": "/react-native-input-focus/index.html",
-    "manifest.json": "/react-native-input-focus/manifest.json",
-    "serve.json": "/react-native-input-focus/serve.json"
+    "app.js": "/react-native-keyboard-types/static/js/app.359f59f3.chunk.js",
+    "app.js.map": "/react-native-keyboard-types/static/js/app.359f59f3.chunk.js.map",
+    "runtime~app.js": "/react-native-keyboard-types/static/js/runtime~app.b7d80e22.js",
+    "runtime~app.js.map": "/react-native-keyboard-types/static/js/runtime~app.b7d80e22.js.map",
+    "static/js/2.f1902678.chunk.js": "/react-native-keyboard-types/static/js/2.f1902678.chunk.js",
+    "static/js/2.f1902678.chunk.js.map": "/react-native-keyboard-types/static/js/2.f1902678.chunk.js.map",
+    "index.html": "/react-native-keyboard-types/index.html",
+    "manifest.json": "/react-native-keyboard-types/manifest.json",
+    "serve.json": "/react-native-keyboard-types/serve.json"
   },
   "entrypoints": [
-    "static/js/runtime~app.1fde9f8c.js",
+    "static/js/runtime~app.b7d80e22.js",
     "static/js/2.f1902678.chunk.js",
-    "static/js/app.ca8a1a43.chunk.js"
+    "static/js/app.359f59f3.chunk.js"
   ]
 }
