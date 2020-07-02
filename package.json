@@ -1,5 +1,5 @@
 {
-  "homepage": "http://tomfa.github.io/react-native-input-focus",
+  "homepage": "http://tomfa.github.io/react-native-keyboard-types",
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
